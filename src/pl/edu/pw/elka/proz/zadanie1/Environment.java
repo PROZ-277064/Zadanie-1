@@ -1,3 +1,5 @@
+package pl.edu.pw.elka.proz.zadanie1;
+
 import java.util.*;
 
 import javafx.collections.FXCollections;
